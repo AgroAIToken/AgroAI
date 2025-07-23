@@ -1,0 +1,22 @@
+{
+  "name": "Agro AI",
+  "symbol": "AGROAI",
+  "description": "A meme coin for AI-powered agriculture on Solana.",
+  "image": "https://raw.githubusercontent.com/AgroAIToken/AgroAI/main/media/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/AgroAIToken/AgroAI/main/media/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+       "address": "9xLmDRyD4raWG5s5ywTxiYoS7D3spaWaR89JgGBNxobQ",
+        "share": 100
+      }
+    ]
+  }
+}
